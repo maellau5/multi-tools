@@ -59,3 +59,5 @@ Ce projet pourrait être utilisé par des développeurs, des administrateurs sys
 
 Conclusion
 Ce projet est un ensemble d'outils polyvalents qui peuvent être utilisés pour diverses tâches de développement, de sécurité, et d'automatisation. Chaque script est conçu pour une tâche spécifique, et ensemble, ils offrent une boîte à outils complète pour les professionnels de l'informatique.
+FAITE LE SUR REPLIT VIA CE LIEN ; 
+https://replit.com/@quest2756/multi-tools
