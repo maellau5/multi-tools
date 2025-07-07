@@ -1,0 +1,12 @@
+Flask
+pyusb
+qrcode[pil]
+pyinstaller
+paramiko
+pywifi
+scapy
+requests
+beautifulsoup4
+libvirt-python
+opencv-python
+discord.py
